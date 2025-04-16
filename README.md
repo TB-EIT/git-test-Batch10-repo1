@@ -36,3 +36,10 @@ Markdown support the following text formatting options:
 * *Italic Text*
 * <s>Strikethrough</s>
 * <u>Underscore</u>
+
+## Links
+
+Markdown supports links:
+* [Remote Link](https://google.com)
+* [Local File Link](./untracked.py)
+* [Local Folder Link](./new_folder/)
