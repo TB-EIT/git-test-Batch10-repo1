@@ -28,3 +28,11 @@ And unnumbered lists:
 * Bulletpoint one
 * Bulletpoint two
 * Bulletpoint three
+
+## Text Formatting
+
+Markdown support the following text formatting options:
+* **Bold Text**
+* *Italic Text*
+* <s>Strikethrough</s>
+* <u>Underscore</u>
