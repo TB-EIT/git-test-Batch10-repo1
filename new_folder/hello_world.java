@@ -5,19 +5,19 @@ public class hello_world {
         System.out.println("Hello, " + name + "! Nice to meet you! How are you doing?");
     }
 
-    private static add(int a, int b) {
+    private static int add(int a, int b) {
         return a + b;
     }
 
-    private static sub(int a, int b) {
+    private static int sub(int a, int b) {
         return a - b;
     }
 
-    private static mul(int a, int b) {
+    private static int mul(int a, int b) {
         return a * b;
     }
 
-    private static div(int a, int b) {
+    private static float div(int a, int b) {
         return a / b;
     }
 }

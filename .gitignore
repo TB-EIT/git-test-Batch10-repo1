@@ -1,0 +1,11 @@
+# This is a sample .gitignore file for a Java project
+
+# Ignore terraform folder
+**/.terraform/
+
+# Ignore build directories
+**/bin/
+**/obj/
+
+# Ignore Java class files
+**/*.class
