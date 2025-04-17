@@ -1,4 +1,5 @@
-# Git Test Batch10 Repo 1
+# Git and Markdown testing repo
+
 This git repo is used for a demonstration of git and Markdown features.
 
 ## Folder with some Hello World Apps
