@@ -3,4 +3,8 @@ public class hello_world {
         var name = new String("Taras");
         System.out.println("Hello, " + name + "!");
     }
+
+    private static add(int a, int b) {
+        return a + b;
+    }
 }
