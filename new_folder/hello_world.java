@@ -1,10 +1,10 @@
 public class hello_world {
     public static void main(String[] args) {
-        var name = new String("Taras");
-        System.out.println("Hello, " + name + "!");
+        var name = new String("Bob");
+        System.out.println("Hello, " + name + "! Nice to meet you!");
     }
 
-    private static add(int a, int b) {
-        return a + b;
+    private static sub(int a, int b) {
+        return a - b;
     }
 }
