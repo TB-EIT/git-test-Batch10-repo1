@@ -43,3 +43,8 @@ Markdown supports links:
 * [Remote Link](https://google.com)
 * [Local File Link](./untracked.py)
 * [Local Folder Link](./new_folder/)
+
+## Images
+
+Markdown support images:
+* ![Cat](https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/2880px-Cat_August_2010-4.jpg)
