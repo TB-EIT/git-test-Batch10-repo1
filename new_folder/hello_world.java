@@ -5,6 +5,10 @@ public class hello_world {
         System.out.println("Hello, " + name + "! Nice to meet you! How are you doing?");
     }
 
+    private static add(int a, int b) {
+        return a + b;
+    }
+
     private static sub(int a, int b) {
         return a - b;
     }
