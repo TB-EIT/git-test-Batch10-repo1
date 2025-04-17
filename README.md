@@ -1,4 +1,4 @@
-# git-test-Batch10-repo1
+# Git and Markdown testing repo
 This git repo is used for a demonstration of git and Markdown features.
 
 ## This is a SubSection 1
