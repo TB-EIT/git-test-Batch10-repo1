@@ -1,5 +1,9 @@
 # Git and Markdown testing repo
+
 This git repo is used for a demonstration of git and Markdown features.
+
+## Folder with some Hello World Apps
+ * [Folder](./new_folder)
 
 ## This is a SubSection 1
 
